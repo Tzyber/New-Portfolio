@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #121216;
+    overflow-y: auto;
+    overflow-x: auto;
+}
