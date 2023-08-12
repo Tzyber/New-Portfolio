@@ -2,17 +2,21 @@
 </script>
 
 <template>
-  <div class="max-w-screen-lg w-full mt-0  mb-20 px-8 mx-auto  sm:mt-28 sm:px-16 slg:px-24 lg:mt-48 lg:mt-58 ">
+  <div class="p-4 sm:ml-64 bg-white border-b border-gray-200 dark:bg-gray-800 dark:border-gray-700">
+  <div class="max-w-screen-lg  dark h-full  mx-auto  mt-[7rem] ">
     <div class="flex flex-col gap-8 lg:gap-16 mb-16">
       <div class="flex flex-col gap-8">
         <div class="flex justify-center ">
           <img alt="me" src="../assets/picture.jpg"
                class="max-h-[50%] max-w-[50%] rounded-br-[25%] rounded-tl-[25%]"/>
         </div>
-        <h1 class="text-xl justify-center sm:text-3xl text-white md:text-4xl md:leading-normal slg:text-5xl slg:leading-relaxed font-theme_bold text-head_text">
-          Web Developer designing beautiful, intuitive web apps.</h1>
-        <span class="text-white text-sm md:text-base leading-relaxed">
+        <div>
+          <h1 class="text-xl justify-center sm:text-3xl text-white md:text-4xl md:leading-normal slg:text-5xl slg:leading-relaxed font-theme_bold text-head_text">
+            Web Developer designing beautiful, intuitive web apps.</h1>
+          <span class="text-white text-sm md:text-base leading-relaxed">
           Hello! My name is Dominik and I am a 27-year-old web developer. I consider myself a bit of a nerd and have a passion for all things in technology. I am currently working at Working for Docunite® as a Solution Developer since 3 years.</span>
+
+        </div>
         <div class="border-b border-amber-300"></div>
         <div>
           <h1 class="text-xl justify-center sm:text-3xl text-white md:text-4xl md:leading-normal slg:text-5xl slg:leading-relaxed font-theme_bold text-head_text">
@@ -31,5 +35,6 @@
         </div>
       </div>
     </div>
+  </div>
   </div>
 </template>
