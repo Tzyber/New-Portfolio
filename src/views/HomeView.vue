@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div class="p-4 sm:ml-64 bg-white border-b border-gray-200 dark:bg-gray-800 dark:border-gray-700">
+  <div class="p-4 sm:ml-64 dark:bg-black">
   <div class="max-w-screen-lg  dark h-full  mx-auto  mt-[7rem] ">
     <div class="flex flex-col gap-8 lg:gap-16 mb-16">
       <div class="flex flex-col gap-8">

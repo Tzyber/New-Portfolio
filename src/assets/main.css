@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-    @apply cursor-default antialiased bg-white dark:bg-[#1f2937] text-black dark:text-white;
+    @apply cursor-default antialiased bg-white dark:bg-black text-black dark:text-white;
     overflow-y: auto;
     overflow-x: auto;
 
