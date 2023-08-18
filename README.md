@@ -1,29 +1,15 @@
-# portfolionew
+<h1> Hey there! I'm Dominik👋 </h1>
+<h2> A Passionate  Webdeveloper from Germany</h2>
+<h3> 👨🏻‍💻 About Me </h3>
 
-This template should help get you started developing with Vue 3 in Vite.
+- 🔭 &nbsp; I’m currently Working for Docunite since 3 years
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-## Recommended IDE Setup
+<h3>🛠 Tech Stack</h3>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- 💻 &nbsp;  JavaScript  | Typescipt
+- 🌐 &nbsp;  Vue | HTML | CSS | JavaScript | Bootstrap | Sass
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tzyber)](https://git.io/streak-stats)
